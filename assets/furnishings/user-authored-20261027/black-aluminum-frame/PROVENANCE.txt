@@ -1,0 +1,7 @@
+black-aluminum-frame — asset provenance
+Source version: 2026-10-27 delivery, creator ExhibitOS.
+source.glb: 101768 bytes; SHA-256 17c571accc4ed2554731d4ce89f3cad4faa66cf2bca83321ecd92ad2537093d9.
+model.glb: 101720 bytes; SHA-256 2fb941a9f6ed030638512e917e348a0a3000e29c1133fe3f9670268ff1c4169c.
+Product preparation: omit-unused-invalid-tangent-r1. The source remains unchanged; the renderable omits unused invalid tangent attributes.
+
+The authored opening is 0.600 x 0.800 m, with nominal exterior 0.624 x 0.824 m and depth 0.025 m. The asset is a frame; artwork and wall are not included. The currently supported attachment is limited to draft.1 planar image artwork exactly 0.600 x 0.800 m, with no artwork depth, unit scale on artwork, placement and room, and no competing procedural frame. The asset provides no general automatic fit or physical support; product validation and actual use remain separate.
