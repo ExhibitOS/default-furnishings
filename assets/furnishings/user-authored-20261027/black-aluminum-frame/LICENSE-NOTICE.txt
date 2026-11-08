@@ -1,0 +1,8 @@
+black-aluminum-frame — distribution license
+User-authored ExhibitOS furnishing asset. The rights holder selected CC0 1.0 Universal for personally created and owned assets, within rights held or exercisable.
+https://creativecommons.org/publicdomain/zero/1.0/
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+The original delivery describes self-created geometry and materials without external models, photos, textures or logos. The original delivery's statement that a public license had not yet been selected records its earlier state; the user's subsequent CC0 decision applies within the user's rights. No rights are claimed for unrelated third-party assets. CC0 does not grant trademark, patent or personality rights, and this notice does not license application code.
+
+source.glb preserves the supplied original. model.glb is the product-prepared renderable, with unused invalid tangent attributes omitted under recipe omit-unused-invalid-tangent-r1. Source and renderable are separate files; use the manifest to identify the renderable for installation.

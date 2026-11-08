@@ -1,6 +1,6 @@
 {
   "schema": "org.exhibitos.default-furnishings/v1",
-  "bundleVersion": "1.0.0",
+  "bundleVersion": "1.1.0",
   "assets": [
     {
       "catalogId": "backless-oak-bench",
@@ -96,6 +96,30 @@
       "provenance": {
         "sourceSha256": "67db8564375294bf9dcd867d94fa5754c6cbcefb67c5e2a5563aed876f79c02b",
         "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "black-aluminum-frame",
+      "catalogVersion": 1,
+      "name": "Black Aluminum Frame",
+      "hostKind": "artwork-frame",
+      "model": {
+        "path": "assets/furnishings/user-authored-20261027/black-aluminum-frame/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 101720,
+        "sha256": "2fb941a9f6ed030638512e917e348a0a3000e29c1133fe3f9670268ff1c4169c"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/user-authored-20261027/black-aluminum-frame/LICENSE-NOTICE.txt",
+          "bytes": 1073,
+          "sha256": "4420382c9c355d1b175b76020d96d59ba8e95b44c8a4444c15f20ce8555b20b9"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "17c571accc4ed2554731d4ce89f3cad4faa66cf2bca83321ecd92ad2537093d9",
+        "recipe": "omit-unused-invalid-tangent-r1"
       }
     }
   ]
