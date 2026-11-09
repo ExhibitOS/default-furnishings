@@ -1,6 +1,6 @@
 {
   "schema": "org.exhibitos.default-furnishings/v1",
-  "bundleVersion": "1.2.0",
+  "bundleVersion": "1.3.0",
   "assets": [
     {
       "catalogId": "backless-oak-bench",
@@ -191,6 +191,54 @@
       },
       "provenance": {
         "sourceSha256": "6924041a37702eb8233bf39da973f2235ff951f4b1f31ab564d4ad125542b3de",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "closed-exit-door",
+      "catalogVersion": 1,
+      "name": "Closed Exit Door",
+      "hostKind": "barrier",
+      "model": {
+        "path": "assets/furnishings/generated-20261109/closed-exit-door/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 8684,
+        "sha256": "e4f9a701214e980dacf127a009847e4fd0c46ca98f53e880e03ce2b9d4c55e25"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/generated-20261109/closed-exit-door/LICENSE-NOTICE.txt",
+          "bytes": 520,
+          "sha256": "404e929d1e996fd1ff62f7500eadd0b0926e02608503e7d531003c10718d5b47"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "e4f9a701214e980dacf127a009847e4fd0c46ca98f53e880e03ce2b9d4c55e25",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "exit-pictogram-sign",
+      "catalogVersion": 1,
+      "name": "Exit Pictogram Sign",
+      "hostKind": "info-stand",
+      "model": {
+        "path": "assets/furnishings/generated-20261109/exit-pictogram-sign/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 10676,
+        "sha256": "9f30718f94b0f0626878731513a0d398907ba87ab0b565445880edecbeda6ed9"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/generated-20261109/exit-pictogram-sign/LICENSE-NOTICE.txt",
+          "bytes": 523,
+          "sha256": "d596fcfa4a97cc812d6dbb7bfbf4078d55b6691270aa19eb28bdfba5db59f18a"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "9f30718f94b0f0626878731513a0d398907ba87ab0b565445880edecbeda6ed9",
         "recipe": "original-v1"
       }
     }
