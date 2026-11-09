@@ -1,6 +1,6 @@
 {
   "schema": "org.exhibitos.default-furnishings/v1",
-  "bundleVersion": "1.1.0",
+  "bundleVersion": "1.2.0",
   "assets": [
     {
       "catalogId": "backless-oak-bench",
@@ -120,6 +120,78 @@
       "provenance": {
         "sourceSha256": "17c571accc4ed2554731d4ce89f3cad4faa66cf2bca83321ecd92ad2537093d9",
         "recipe": "omit-unused-invalid-tangent-r1"
+      }
+    },
+    {
+      "catalogId": "freestanding-info-stand",
+      "catalogVersion": 1,
+      "name": "Freestanding Info Stand",
+      "hostKind": "info-stand",
+      "model": {
+        "path": "assets/furnishings/user-authored-20261027/freestanding-info-stand/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 112044,
+        "sha256": "4e26824b897af85e781c102cf7f01e404e4266b4d5299088c2b29940facaccba"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/user-authored-20261027/freestanding-info-stand/LICENSE-NOTICE.txt",
+          "bytes": 554,
+          "sha256": "e08ac0dac46eb8539c67e1a5533f0e73c9714bc71c92f44769d5ddeec8c70e12"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "4e26824b897af85e781c102cf7f01e404e4266b4d5299088c2b29940facaccba",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "gallery-stool",
+      "catalogVersion": 1,
+      "name": "Gallery Stool",
+      "hostKind": "stool",
+      "model": {
+        "path": "assets/furnishings/user-authored-20261027/gallery-stool/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 415848,
+        "sha256": "6caca94361b540fb007c6fc605e519e436462eda43f2ec5f99da6a63108bfc60"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/user-authored-20261027/gallery-stool/LICENSE-NOTICE.txt",
+          "bytes": 544,
+          "sha256": "030e851bb2fdddcae893f541f25760abdf814989e0f8061b3ae7e343d9cadad4"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "6caca94361b540fb007c6fc605e519e436462eda43f2ec5f99da6a63108bfc60",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "upholstered-gallery-bench",
+      "catalogVersion": 1,
+      "name": "Upholstered Gallery Bench",
+      "hostKind": "bench",
+      "model": {
+        "path": "assets/furnishings/user-authored-20261027/upholstered-gallery-bench/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 203064,
+        "sha256": "6924041a37702eb8233bf39da973f2235ff951f4b1f31ab564d4ad125542b3de"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/user-authored-20261027/upholstered-gallery-bench/LICENSE-NOTICE.txt",
+          "bytes": 556,
+          "sha256": "d2e8de2967c131466e5ed5cea26dd615d583f34fb2f132d9d5f137d5e2ac7f81"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "6924041a37702eb8233bf39da973f2235ff951f4b1f31ab564d4ad125542b3de",
+        "recipe": "original-v1"
       }
     }
   ]
