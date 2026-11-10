@@ -1,0 +1,9 @@
+exit-pictogram-sign — asset provenance
+Source version: ExhibitOS split original v1, created 2026-11-09; creator and rights holder ExhibitOS; CC0-1.0; no third-party source art or fonts.
+source.glb: 10676 bytes; SHA-256 9f30718f94b0f0626878731513a0d398907ba87ab0b565445880edecbeda6ed9.
+model.glb: 10596 bytes; SHA-256 d8cf449146e1cc8b9174d1a550a44bc41735487ec1fe68a9deb363faba02e44c.
+Product preparation: normalize-legacy-sign-texture-r1; original source retained unchanged.
+Producer manifest SHA-256 cfc795c35628e15a9f91b71dcca0587023a0b249b2984a2615973b72bc6ed32f; producer SHA-256 392bde543dd12306061a65c1a60b1696def07407e0019faaf22e3060a4fc0e10; Platform source commit 9611961c75c80980babcec8fe9e7c0267800fcc0.
+Product registration receipt SHA-256 c48ca7b25af4d08db0bfc0b61f4931bb8acbdf91d4366927794a7be51b610246; registered model checked again after a clean same-owner restart.
+Authoring source .blend SHA-256 498a4c2979fc81586527edbed063c62a21a25be8b6bfcfab851110120b1ab5cb; authored face.png SHA-256 54b0bf3276e51e034aceead8855158ca584dac4b1bb4fa1919cfe945a63aa505; source manifest SHA-256 9cb7c7558c67405ced3a41daeb4bddfae599e499ad75bed506a921e73ff50087. These authoring originals remain in the source custody.
+The sign is a passive visual object; it does not define an exit destination or behavior. Its front faces +Z; the back-face center is the origin. Nominal dimensions are 0.12 × 0.055 × 0.008 m.

@@ -1,6 +1,6 @@
 {
   "schema": "org.exhibitos.default-furnishings/v1",
-  "bundleVersion": "1.3.0",
+  "bundleVersion": "1.4.0",
   "assets": [
     {
       "catalogId": "backless-oak-bench",
@@ -220,26 +220,33 @@
     },
     {
       "catalogId": "exit-pictogram-sign",
-      "catalogVersion": 1,
+      "catalogVersion": 2,
       "name": "Exit Pictogram Sign",
       "hostKind": "info-stand",
       "model": {
         "path": "assets/furnishings/generated-20261109/exit-pictogram-sign/model.glb",
         "mime": "model/gltf-binary",
-        "bytes": 10676,
-        "sha256": "9f30718f94b0f0626878731513a0d398907ba87ab0b565445880edecbeda6ed9"
+        "bytes": 10596,
+        "sha256": "d8cf449146e1cc8b9174d1a550a44bc41735487ec1fe68a9deb363faba02e44c"
       },
       "rights": {
         "licenseId": "CC0-1.0",
         "notice": {
           "path": "assets/furnishings/generated-20261109/exit-pictogram-sign/LICENSE-NOTICE.txt",
-          "bytes": 523,
-          "sha256": "d596fcfa4a97cc812d6dbb7bfbf4078d55b6691270aa19eb28bdfba5db59f18a"
+          "bytes": 581,
+          "sha256": "d25c3a63ba95568040919f5541eaa4c99eff98540f676507c5bb3a75d1e3d0cd"
         }
       },
       "provenance": {
         "sourceSha256": "9f30718f94b0f0626878731513a0d398907ba87ab0b565445880edecbeda6ed9",
-        "recipe": "original-v1"
+        "recipe": "normalize-legacy-sign-texture-r1",
+        "source": {
+          "path": "assets/furnishings/generated-20261109/exit-pictogram-sign/source.glb",
+          "bytes": 10676,
+          "sha256": "9f30718f94b0f0626878731513a0d398907ba87ab0b565445880edecbeda6ed9"
+        },
+        "runtimeManifestSHA256": "cfc795c35628e15a9f91b71dcca0587023a0b249b2984a2615973b72bc6ed32f",
+        "registeredReceiptSHA256": "c48ca7b25af4d08db0bfc0b61f4931bb8acbdf91d4366927794a7be51b610246"
       }
     }
   ]
