@@ -3,4 +3,4 @@ ExhibitOS original generated furnishing; creator and rights holder ExhibitOS. Th
 https://creativecommons.org/publicdomain/zero/1.0/
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
-The original model bytes are preserved unchanged. This notice does not grant third-party, trademark, patent or personality rights and does not license application code.
+The original model is retained unchanged as source.glb. The display model is a product-prepared derivative. This notice does not grant third-party, trademark, patent or personality rights and does not license application code.
