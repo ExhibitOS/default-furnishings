@@ -1,0 +1,6 @@
+exit-pictogram-sign — distribution license
+ExhibitOS original generated furnishing; creator and rights holder ExhibitOS. The rights holder applies CC0 1.0 Universal to its controlled rights. No third-party source art or fonts are included.
+https://creativecommons.org/publicdomain/zero/1.0/
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+The original model is retained unchanged as source.glb. The display model is a product-prepared derivative. This notice does not grant third-party, trademark, patent or personality rights and does not license application code.

@@ -1,0 +1,6 @@
+gallery-stool — distribution license
+User-authored ExhibitOS furnishing. The rights holder selected CC0 1.0 Universal within personally created and owned rights.
+https://creativecommons.org/publicdomain/zero/1.0/
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+The original delivery predates that selection and its historical notices are preserved separately. This notice does not grant third-party, trademark, patent or personality rights and does not license application code. The original model bytes are preserved unchanged.

@@ -1,6 +1,6 @@
 {
   "schema": "org.exhibitos.default-furnishings/v1",
-  "bundleVersion": "1.1.0",
+  "bundleVersion": "1.6.0",
   "assets": [
     {
       "catalogId": "backless-oak-bench",
@@ -120,6 +120,205 @@
       "provenance": {
         "sourceSha256": "17c571accc4ed2554731d4ce89f3cad4faa66cf2bca83321ecd92ad2537093d9",
         "recipe": "omit-unused-invalid-tangent-r1"
+      }
+    },
+    {
+      "catalogId": "freestanding-info-stand",
+      "catalogVersion": 1,
+      "name": "Freestanding Info Stand",
+      "hostKind": "info-stand",
+      "model": {
+        "path": "assets/furnishings/user-authored-20261027/freestanding-info-stand/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 112044,
+        "sha256": "4e26824b897af85e781c102cf7f01e404e4266b4d5299088c2b29940facaccba"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/user-authored-20261027/freestanding-info-stand/LICENSE-NOTICE.txt",
+          "bytes": 554,
+          "sha256": "e08ac0dac46eb8539c67e1a5533f0e73c9714bc71c92f44769d5ddeec8c70e12"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "4e26824b897af85e781c102cf7f01e404e4266b4d5299088c2b29940facaccba",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "gallery-stool",
+      "catalogVersion": 1,
+      "name": "Gallery Stool",
+      "hostKind": "stool",
+      "model": {
+        "path": "assets/furnishings/user-authored-20261027/gallery-stool/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 415848,
+        "sha256": "6caca94361b540fb007c6fc605e519e436462eda43f2ec5f99da6a63108bfc60"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/user-authored-20261027/gallery-stool/LICENSE-NOTICE.txt",
+          "bytes": 544,
+          "sha256": "030e851bb2fdddcae893f541f25760abdf814989e0f8061b3ae7e343d9cadad4"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "6caca94361b540fb007c6fc605e519e436462eda43f2ec5f99da6a63108bfc60",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "upholstered-gallery-bench",
+      "catalogVersion": 1,
+      "name": "Upholstered Gallery Bench",
+      "hostKind": "bench",
+      "model": {
+        "path": "assets/furnishings/user-authored-20261027/upholstered-gallery-bench/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 203064,
+        "sha256": "6924041a37702eb8233bf39da973f2235ff951f4b1f31ab564d4ad125542b3de"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/user-authored-20261027/upholstered-gallery-bench/LICENSE-NOTICE.txt",
+          "bytes": 556,
+          "sha256": "d2e8de2967c131466e5ed5cea26dd615d583f34fb2f132d9d5f137d5e2ac7f81"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "6924041a37702eb8233bf39da973f2235ff951f4b1f31ab564d4ad125542b3de",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "closed-exit-door",
+      "catalogVersion": 1,
+      "name": "Closed Exit Door",
+      "hostKind": "barrier",
+      "model": {
+        "path": "assets/furnishings/generated-20261109/closed-exit-door/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 8684,
+        "sha256": "e4f9a701214e980dacf127a009847e4fd0c46ca98f53e880e03ce2b9d4c55e25"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/generated-20261109/closed-exit-door/LICENSE-NOTICE.txt",
+          "bytes": 520,
+          "sha256": "404e929d1e996fd1ff62f7500eadd0b0926e02608503e7d531003c10718d5b47"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "e4f9a701214e980dacf127a009847e4fd0c46ca98f53e880e03ce2b9d4c55e25",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "exit-pictogram-sign",
+      "catalogVersion": 2,
+      "name": "Exit Pictogram Sign",
+      "hostKind": "info-stand",
+      "model": {
+        "path": "assets/furnishings/generated-20261109/exit-pictogram-sign/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 10596,
+        "sha256": "d8cf449146e1cc8b9174d1a550a44bc41735487ec1fe68a9deb363faba02e44c"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/generated-20261109/exit-pictogram-sign/LICENSE-NOTICE.txt",
+          "bytes": 581,
+          "sha256": "d25c3a63ba95568040919f5541eaa4c99eff98540f676507c5bb3a75d1e3d0cd"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "9f30718f94b0f0626878731513a0d398907ba87ab0b565445880edecbeda6ed9",
+        "recipe": "normalize-legacy-sign-texture-r1",
+        "source": {
+          "path": "assets/furnishings/generated-20261109/exit-pictogram-sign/source.glb",
+          "bytes": 10676,
+          "sha256": "9f30718f94b0f0626878731513a0d398907ba87ab0b565445880edecbeda6ed9"
+        },
+        "runtimeManifestSHA256": "cfc795c35628e15a9f91b71dcca0587023a0b249b2984a2615973b72bc6ed32f",
+        "registeredReceiptSHA256": "c48ca7b25af4d08db0bfc0b61f4931bb8acbdf91d4366927794a7be51b610246"
+      }
+    },
+    {
+      "catalogId": "sculpture-gallery-bench",
+      "catalogVersion": 1,
+      "name": "Sculpture Gallery Bench",
+      "hostKind": "bench",
+      "model": {
+        "path": "assets/furnishings/generated-20261110/sculpture-gallery-bench/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 85876,
+        "sha256": "6cb111d9baf50d355c18b8e94b9cff78eeeb9679f02ebf490d7093e2c32c59d0"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/generated-20261110/sculpture-gallery-bench/LICENSE-NOTICE.txt",
+          "bytes": 527,
+          "sha256": "43e7ec932356e82a9e932448b4601f005427d983b8469a7ba23f14c7ac043c16"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "6cb111d9baf50d355c18b8e94b9cff78eeeb9679f02ebf490d7093e2c32c59d0",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "portal-pale-mineral",
+      "catalogVersion": 1,
+      "name": "Portal Pale Mineral",
+      "hostKind": "opening",
+      "model": {
+        "path": "assets/furnishings/exhibitos-authored-20261109/portal-pale-mineral/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 2468,
+        "sha256": "62fd3bc49e0e77ffde26f60dee7ddfbbac0939347d68ea53a94700de0695f1ae"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/exhibitos-authored-20261109/portal-pale-mineral/LICENSE-NOTICE.txt",
+          "bytes": 578,
+          "sha256": "b1e5cf2cab59c23487abeee45fce9fb3d0a0e8e4e11c001fad02c0066c5448aa"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "62fd3bc49e0e77ffde26f60dee7ddfbbac0939347d68ea53a94700de0695f1ae",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "portal-warm-oak",
+      "catalogVersion": 1,
+      "name": "Portal Warm Oak",
+      "hostKind": "opening",
+      "model": {
+        "path": "assets/furnishings/exhibitos-authored-20261109/portal-warm-oak/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 2460,
+        "sha256": "90dca006e496c0e9766fc1ecfbb7aca66905ef29de451ed12e55e0511ad1bd04"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/exhibitos-authored-20261109/portal-warm-oak/LICENSE-NOTICE.txt",
+          "bytes": 574,
+          "sha256": "a3fc65808424ef859c49b3bccc7d0cedfedefe8320cd7dc925270556e6340e1d"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "90dca006e496c0e9766fc1ecfbb7aca66905ef29de451ed12e55e0511ad1bd04",
+        "recipe": "original-v1"
       }
     }
   ]
