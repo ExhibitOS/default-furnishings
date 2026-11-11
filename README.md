@@ -9,3 +9,5 @@ Each asset is licensed CC0 1.0 within the creator’s rights; see its accompanyi
 Version 1.6.0 preserves all eleven 1.5.0 entries and adds the existing ExhibitOS-created pale-mineral and warm-oak portal originals with their exact CC0 notices. These are unchanged distribution sources; geometry eligibility, reusable fit, owner registration, clean installation and walking require product consumer qualification.
 
 Version 1.7.0 preserves all 1.6.0 entries and adds the original compact caption stand. Its registration, installed availability, placement, physical support and caption readability require product consumer qualification.
+
+Version 1.8.0 preserves all 1.7.0 entries and adds the museum wallwasher with its original source, product-prepared model, rights notices and producer evidence. Fixture selection, optical fit, installation and Viewer behavior require separate product qualification.
