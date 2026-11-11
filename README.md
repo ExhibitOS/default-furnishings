@@ -5,3 +5,5 @@ Version 1.5.0 contains eleven CC0 furnishing models and their exact rights notic
 These assets preserve the existing ExhibitOS catalog bytes. Manager installation integration and offline availability require a separately verified product build. The release does not itself install or register assets.
 
 Each asset is licensed CC0 1.0 within the creator’s rights; see its accompanying notice. Product source code is not included.
+
+Version 1.6.0 preserves all eleven 1.5.0 entries and adds the existing ExhibitOS-created pale-mineral and warm-oak portal originals with their exact CC0 notices. These are unchanged distribution sources; geometry eligibility, reusable fit, owner registration, clean installation and walking require product consumer qualification.

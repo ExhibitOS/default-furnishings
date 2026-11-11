@@ -1,6 +1,6 @@
 {
   "schema": "org.exhibitos.default-furnishings/v1",
-  "bundleVersion": "1.5.0",
+  "bundleVersion": "1.6.0",
   "assets": [
     {
       "catalogId": "backless-oak-bench",
@@ -270,6 +270,54 @@
       },
       "provenance": {
         "sourceSha256": "6cb111d9baf50d355c18b8e94b9cff78eeeb9679f02ebf490d7093e2c32c59d0",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "portal-pale-mineral",
+      "catalogVersion": 1,
+      "name": "Portal Pale Mineral",
+      "hostKind": "opening",
+      "model": {
+        "path": "assets/furnishings/exhibitos-authored-20261109/portal-pale-mineral/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 2468,
+        "sha256": "62fd3bc49e0e77ffde26f60dee7ddfbbac0939347d68ea53a94700de0695f1ae"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/exhibitos-authored-20261109/portal-pale-mineral/LICENSE-NOTICE.txt",
+          "bytes": 578,
+          "sha256": "b1e5cf2cab59c23487abeee45fce9fb3d0a0e8e4e11c001fad02c0066c5448aa"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "62fd3bc49e0e77ffde26f60dee7ddfbbac0939347d68ea53a94700de0695f1ae",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "portal-warm-oak",
+      "catalogVersion": 1,
+      "name": "Portal Warm Oak",
+      "hostKind": "opening",
+      "model": {
+        "path": "assets/furnishings/exhibitos-authored-20261109/portal-warm-oak/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 2460,
+        "sha256": "90dca006e496c0e9766fc1ecfbb7aca66905ef29de451ed12e55e0511ad1bd04"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/exhibitos-authored-20261109/portal-warm-oak/LICENSE-NOTICE.txt",
+          "bytes": 574,
+          "sha256": "a3fc65808424ef859c49b3bccc7d0cedfedefe8320cd7dc925270556e6340e1d"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "90dca006e496c0e9766fc1ecfbb7aca66905ef29de451ed12e55e0511ad1bd04",
         "recipe": "original-v1"
       }
     }
