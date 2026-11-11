@@ -1,0 +1,63 @@
+{
+  "format": "exhibitos-shared-fixture-producer-v1",
+  "sourceCommit": "c28d8264430166ece9d69efe551261cc330d342d",
+  "implementation": [
+    {
+      "path": "scripts/prepare-shared-fixture-catalogue.mjs",
+      "sha256": "8a24017e239e8ea124b6555fa53bfabaf9faeba7c38f3586502b7f992ba8312e"
+    },
+    {
+      "path": "apps/api/src/shared-fixture-producer.ts",
+      "sha256": "9d31ec1522b215966d4ee1c9fefff8af8758d947416d165f1a2415028fc5c3d7"
+    },
+    {
+      "path": "apps/api/src/light-fixture-preparation.ts",
+      "sha256": "a9ddc8af546aca85468bf5c46076c38438f3855175650a770e73f70b5e97432a"
+    },
+    {
+      "path": "apps/api/src/light-fixture-preparation-process.ts",
+      "sha256": "cd08215a38e4c976e24f40699a64b62f0bbd531159cf8444a39df39d3477e3a7"
+    },
+    {
+      "path": "apps/api/src/light-fixture-preparation-worker.ts",
+      "sha256": "4a0a2a17808c64df9a113af04c358c61ab37df2878c211c63dc88dca13c2f279"
+    },
+    {
+      "path": "apps/api/src/workspace-furnishing-glb.ts",
+      "sha256": "ee4510f54bd196f0f979b6d04f8df4acdde5dc1cf83d8d20785e62cac1a519fb"
+    },
+    {
+      "path": "apps/api/src/validation-worker.ts",
+      "sha256": "20569a6732e26b42db21fcbc6825001a2b3c48f7b3d979e613fe8e2aa3b6a5fb"
+    }
+  ],
+  "requestSHA256": "4e0103cfb584165f3e1183033b9c73ab21636e2e97dad7ea0fc1c0fb5d4bd494",
+  "receiptSHA256": "c8301e725b306bfbb3a2f72397fccbe51b2ce369324c0118de751b78d740ebaa",
+  "files": [
+    {
+      "path": "source.glb",
+      "bytes": 203848,
+      "sha256": "6c77c618f040e673edbc1ffbd67f48c79deed6d11286474830b12d9cd6ba0823"
+    },
+    {
+      "path": "source-LICENSE-NOTICE.txt",
+      "bytes": 930,
+      "sha256": "eef681a28e50d647ef1302c294f4b7886164b23d3e134e521c76d7d8c4f4b9ad"
+    },
+    {
+      "path": "model.glb",
+      "bytes": 203836,
+      "sha256": "7c1c7bb441031b7496c80d1bd39edb66b31346887e928ce68a0f22fbf9bf7f8f"
+    },
+    {
+      "path": "LICENSE-NOTICE.txt",
+      "bytes": 1321,
+      "sha256": "02f6e4b864a64ca10a4b9b52c4da1749eeca402f7b3d225db784051c95c0aaf8"
+    },
+    {
+      "path": "producer-receipt.json",
+      "bytes": 1967,
+      "sha256": "fa940186e1cdc4e418f27aaec6b94b33f3898ced22e8b4405899dc1213f5ce56"
+    }
+  ]
+}

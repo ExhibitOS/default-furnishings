@@ -11,3 +11,5 @@ Version 1.6.0 preserves all eleven 1.5.0 entries and adds the existing ExhibitOS
 Version 1.7.0 preserves all 1.6.0 entries and adds the original compact caption stand. Its registration, installed availability, placement, physical support and caption readability require product consumer qualification.
 
 Version 1.8.0 preserves all 1.7.0 entries and adds the museum wallwasher with its original source, product-prepared model, rights notices and producer evidence. Fixture selection, optical fit, installation and Viewer behavior require separate product qualification.
+
+Version 1.9.0 preserves all 1.8.0 entries and adds the rear-relief museum wallwasher as a distinct source and prepared model with its rights notices and producer evidence. Catalogue admission, fixture selection, fit, installation and Viewer behavior require separate product qualification.
