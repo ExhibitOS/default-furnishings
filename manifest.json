@@ -1,6 +1,6 @@
 {
   "schema": "org.exhibitos.default-furnishings/v1",
-  "bundleVersion": "1.6.0",
+  "bundleVersion": "1.7.0",
   "assets": [
     {
       "catalogId": "backless-oak-bench",
@@ -318,6 +318,30 @@
       },
       "provenance": {
         "sourceSha256": "90dca006e496c0e9766fc1ecfbb7aca66905ef29de451ed12e55e0511ad1bd04",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "compact-caption-stand",
+      "catalogVersion": 1,
+      "name": "Compact Caption Stand",
+      "hostKind": "info-stand",
+      "model": {
+        "path": "assets/furnishings/exhibitos-authored-20261111/compact-caption-stand/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 13864,
+        "sha256": "ec9e424fe07eceeb4b422c0ed3dfa6981ac9f5dc335bd6ed32954d2c1a190752"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/exhibitos-authored-20261111/compact-caption-stand/LICENSE-NOTICE.txt",
+          "bytes": 580,
+          "sha256": "5d90fcaaec647de18cf2be4b7bf46927b8136080c3cd7f37c3ee1efe3336b87f"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "ec9e424fe07eceeb4b422c0ed3dfa6981ac9f5dc335bd6ed32954d2c1a190752",
         "recipe": "original-v1"
       }
     }
