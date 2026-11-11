@@ -1,6 +1,6 @@
 {
   "schema": "org.exhibitos.default-furnishings/v1",
-  "bundleVersion": "1.7.0",
+  "bundleVersion": "1.8.0",
   "assets": [
     {
       "catalogId": "backless-oak-bench",
@@ -343,6 +343,30 @@
       "provenance": {
         "sourceSha256": "ec9e424fe07eceeb4b422c0ed3dfa6981ac9f5dc335bd6ed32954d2c1a190752",
         "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "museum-wallwasher",
+      "catalogVersion": 1,
+      "name": "Museum Wallwasher",
+      "hostKind": "light",
+      "model": {
+        "path": "assets/furnishings/exhibitos-authored-20261111/museum-wallwasher/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 201724,
+        "sha256": "a4b66294c77e206a574905e12680148129f914d368add947f1c8831c64bf3f4d"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/exhibitos-authored-20261111/museum-wallwasher/LICENSE-NOTICE.txt",
+          "bytes": 1115,
+          "sha256": "b40713d9c089649c71aeed2c8fced9d9274612ef376b77d19ab5f6becd5b0cf3"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "d85d9d1823c49bef412a23a59e238104f5b8ad342d8e8149efaf8d1110dc3290",
+        "recipe": "omit-unused-invalid-tangent-r1"
       }
     }
   ]

@@ -1,0 +1,8 @@
+museum-wallwasher — current distribution notice
+
+Original ExhibitOS-generated 3D geometry and constant PBR materials; the original delivery reports no external models, image textures, or logos. The user directed that earlier and future ExhibitOS-created 3D models use CC0 1.0, within rights held by the user.
+
+CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
+The historic delivery notice stating that no public licence had been selected records the earlier status and remains unchanged. This notice applies to the original model identified below; any derivative must retain its own exact identity and provenance.
+
+Original GLB SHA-256: d85d9d1823c49bef412a23a59e238104f5b8ad342d8e8149efaf8d1110dc3290
