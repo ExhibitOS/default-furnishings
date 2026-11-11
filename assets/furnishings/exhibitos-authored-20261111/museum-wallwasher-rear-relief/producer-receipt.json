@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "purpose": "shared-fixture-catalogue-candidate",
+  "source": {
+    "mime": "model/gltf-binary",
+    "bytes": 203848,
+    "sha256": "6c77c618f040e673edbc1ffbd67f48c79deed6d11286474830b12d9cd6ba0823"
+  },
+  "sourceNotice": {
+    "bytes": 930,
+    "sha256": "eef681a28e50d647ef1302c294f4b7886164b23d3e134e521c76d7d8c4f4b9ad"
+  },
+  "renderable": {
+    "mime": "model/gltf-binary",
+    "bytes": 203836,
+    "sha256": "7c1c7bb441031b7496c80d1bd39edb66b31346887e928ce68a0f22fbf9bf7f8f"
+  },
+  "notice": {
+    "bytes": 1321,
+    "sha256": "02f6e4b864a64ca10a4b9b52c4da1749eeca402f7b3d225db784051c95c0aaf8"
+  },
+  "rights": {
+    "licenseId": "CC0-1.0"
+  },
+  "recipe": {
+    "version": 1,
+    "id": "unused-invalid-tangent-v1",
+    "input": "static-embedded-glb-8m",
+    "change": "omit-only-invalid-unused-tangent-bindings",
+    "bin": "unchanged",
+    "normalMap": "reject",
+    "validator": "gltf-validator@2.0.0-dev.3.10",
+    "sha256": "89942944fb1c9c77c0f758a1d4b45abd9242e2303a486a6791859fce26fee892"
+  },
+  "producer": {
+    "name": "ExhibitOS shared fixture producer",
+    "version": 1,
+    "sourceCommit": "c28d8264430166ece9d69efe551261cc330d342d",
+    "implementationSHA256": "f3a374be45914c7b1a2e2217a796e9084f0050d551651ea423c8d33e32e5a611",
+    "validator": "gltf-validator@2.0.0-dev.3.10"
+  },
+  "preparation": {
+    "version": 1,
+    "policy": "omit-unused-invalid-tangent-r1",
+    "source": {
+      "sha256": "6c77c618f040e673edbc1ffbd67f48c79deed6d11286474830b12d9cd6ba0823",
+      "bytes": 203848
+    },
+    "derived": {
+      "sha256": "7c1c7bb441031b7496c80d1bd39edb66b31346887e928ce68a0f22fbf9bf7f8f",
+      "bytes": 203836
+    },
+    "removed": [
+      {
+        "mesh": 0,
+        "primitive": 0,
+        "accessor": 3
+      }
+    ],
+    "binSHA256": "62fba11f59826418007880233b3197e5955d795c01c9ff24df05ae69a4dd8fe6"
+  },
+  "workerDrained": true,
+  "sha256": "c8301e725b306bfbb3a2f72397fccbe51b2ce369324c0118de751b78d740ebaa"
+}
