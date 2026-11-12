@@ -1,6 +1,6 @@
 {
   "schema": "org.exhibitos.default-furnishings/v1",
-  "bundleVersion": "1.10.0",
+  "bundleVersion": "1.11.0",
   "assets": [
     {
       "catalogId": "backless-oak-bench",
@@ -414,6 +414,30 @@
       },
       "provenance": {
         "sourceSha256": "e22f0acdda9f0e33f00fbe5c874eb12bc2799062e34ad2939fa0d88721bef1f9",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "recessed-downlight",
+      "catalogVersion": 1,
+      "name": "Recessed Downlight",
+      "hostKind": "light",
+      "model": {
+        "path": "assets/furnishings/user-authored-20261027/recessed-downlight/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 86480,
+        "sha256": "041c6c2c340a039f1eb82f70d925c1ecbe913276deaba5b447e540d67fc2e7bf"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/user-authored-20261027/recessed-downlight/LICENSE-NOTICE.txt",
+          "bytes": 1569,
+          "sha256": "b878f7873013dd45d32bfd7d8003dfb7f57d5680d69e3ed3f24d461692bf7b8e"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "041c6c2c340a039f1eb82f70d925c1ecbe913276deaba5b447e540d67fc2e7bf",
         "recipe": "original-v1"
       }
     }
