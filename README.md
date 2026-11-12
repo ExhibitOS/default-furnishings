@@ -13,3 +13,5 @@ Version 1.7.0 preserves all 1.6.0 entries and adds the original compact caption 
 Version 1.8.0 preserves all 1.7.0 entries and adds the museum wallwasher with its original source, product-prepared model, rights notices and producer evidence. Fixture selection, optical fit, installation and Viewer behavior require separate product qualification.
 
 Version 1.9.0 preserves all 1.8.0 entries and adds the rear-relief museum wallwasher as a distinct source and prepared model with its rights notices and producer evidence. Catalogue admission, fixture selection, fit, installation and Viewer behavior require separate product qualification.
+
+Version 1.10.0 preserves all 1.9.0 entries and adds the original Sculpture Bench Refined model. Clean-install discovery, placement, seating, walking and Viewer behavior require separate product qualification.

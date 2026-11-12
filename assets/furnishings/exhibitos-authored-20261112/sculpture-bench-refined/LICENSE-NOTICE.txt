@@ -1,0 +1,8 @@
+Sculpture bench refined v5 — ExhibitOS original
+
+This is a new Blender export from the preserved v4 authoring master. Geometry, materials, and generated oak-grain image were created for ExhibitOS; no third-party models, images, textures or logos were used. The generated grain is a procedural approximation, not an oak photograph. The user directed CC0 1.0 for earlier and future ExhibitOS-created 3D models within rights held by the user, as recorded in operations/docs/authorizations/artwork-publication.md#exhibitos-generated-assets-personal-cc0-2026-11-06.
+
+CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
+Candidate visual.glb SHA-256: e22f0acdda9f0e33f00fbe5c874eb12bc2799062e34ad2939fa0d88721bef1f9
+Previous v4 GLB SHA-256: ae18e6bf7de8448ca570c58c54180e2c85a1fd2f459ccc370ab08d6628496b99
+Provenance and verification limitations are recorded in provenance.json.
