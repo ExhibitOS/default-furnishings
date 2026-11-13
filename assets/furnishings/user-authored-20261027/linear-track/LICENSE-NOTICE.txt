@@ -1,0 +1,11 @@
+Linear Track — ExhibitOS distribution notice
+
+Creator and rights holder: ExhibitOS.
+License: CC0 1.0 Universal, within rights held or exercisable by the creator.
+See https://creativecommons.org/publicdomain/zero/1.0/ for the dedication.
+
+The original linear-track model is included unchanged in this distribution source.
+Model SHA-256: 1ba64842de525166018e941074852a3e041d07adf605674c7d7fadb02693a09e
+This notice does not assert completed product intake, registration, mechanical
+support, placement, thumbnail, Viewer or publication qualification. Historical
+previews and third-party material are outside this notice.
