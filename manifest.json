@@ -1,6 +1,6 @@
 {
   "schema": "org.exhibitos.default-furnishings/v1",
-  "bundleVersion": "1.11.0",
+  "bundleVersion": "1.12.0",
   "assets": [
     {
       "catalogId": "backless-oak-bench",
@@ -439,6 +439,70 @@
       "provenance": {
         "sourceSha256": "041c6c2c340a039f1eb82f70d925c1ecbe913276deaba5b447e540d67fc2e7bf",
         "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "thin-brass-frame",
+      "catalogVersion": 1,
+      "name": "Thin Brass Frame",
+      "hostKind": "artwork-frame",
+      "model": {
+        "path": "assets/furnishings/user-authored-20261027/thin-brass-frame/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 7892,
+        "sha256": "4b14e45ccf14ed38eea90c50553733a0b97b1671b9ec377d900e5a947545f8b4"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/user-authored-20261027/thin-brass-frame/LICENSE-NOTICE.txt",
+          "bytes": 774,
+          "sha256": "6bea185176277bc84a56a964fa52f3cbea755d7bab62308dcf9e6e06e4e6a272"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "4b14e45ccf14ed38eea90c50553733a0b97b1671b9ec377d900e5a947545f8b4",
+        "recipe": "original-v1",
+        "sourceNotice": {
+          "path": "assets/furnishings/user-authored-20261027/thin-brass-frame/SOURCE-NOTICE.txt",
+          "bytes": 113,
+          "sha256": "5855dd609391bfafa9bfa62deb1ca0025dfb00b412955fc8ec05999f0e1a0fd1"
+        }
+      },
+      "workspaceFurnishing": {
+        "id": "af88109b-27e2-4d10-a08c-3ddc0224451a",
+        "version": 1,
+        "kind": "artwork-frame",
+        "name": "얇은 황동 액자",
+        "model": {
+          "mime": "model/gltf-binary",
+          "bytes": 7892,
+          "sha256": "4b14e45ccf14ed38eea90c50553733a0b97b1671b9ec377d900e5a947545f8b4"
+        },
+        "rights": {
+          "holder": "ExhibitOS",
+          "ownership": "owner",
+          "licenseId": "CC0-1.0",
+          "creditLine": "ExhibitOS",
+          "permissions": {
+            "display": true,
+            "download": true,
+            "export": true,
+            "commercial": true
+          }
+        },
+        "provenance": "ExhibitOS default furnishings, thin-brass-frame v1.",
+        "fit": {
+          "version": 1,
+          "sourceSha256": "4b14e45ccf14ed38eea90c50553733a0b97b1671b9ec377d900e5a947545f8b4",
+          "sourceBytes": 7892,
+          "geometry": {
+            "profile": "straight-miter-ring-v1",
+            "openingWidth": 0.6,
+            "openingHeight": 0.8,
+            "imagePlaneZ": -0.012
+          }
+        }
       }
     }
   ]

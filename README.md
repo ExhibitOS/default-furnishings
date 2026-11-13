@@ -17,3 +17,5 @@ Version 1.9.0 preserves all 1.8.0 entries and adds the rear-relief museum wallwa
 Version 1.10.0 preserves all 1.9.0 entries and adds the original Sculpture Bench Refined model. Clean-install discovery, placement, seating, walking and Viewer behavior require separate product qualification.
 
 Version 1.11.0 preserves all seventeen 1.10.0 entries and adds the unchanged original recessed downlight and its exact CC0 notice. The authored -Y fixture axis and aperture reference require product host alignment; this distribution alone does not establish mounting, ceiling recess geometry, optics, placement or Viewer qualification.
+
+Version 1.12.0 preserves all eighteen 1.11.0 entries and adds the unchanged original Thin Brass Frame, a new CC0 distribution notice, its retained historical source notice, and authored installed-frame metadata. Its source-bound straight-miter fit uses the existing public profile. Tenant registrations remain separate. Existing preview candidates are not approved catalogue cards; installation, discovery, selection, Save/reopen and Viewer use require separately qualified product consumers.
