@@ -473,7 +473,7 @@
         "id": "af88109b-27e2-4d10-a08c-3ddc0224451a",
         "version": 1,
         "kind": "artwork-frame",
-        "name": "\uc587\uc740 \ud669\ub3d9 \uc561\uc790",
+        "name": "얇은 황동 액자",
         "model": {
           "mime": "model/gltf-binary",
           "bytes": 7892,
@@ -544,8 +544,8 @@
         "licenseId": "CC0-1.0",
         "notice": {
           "path": "assets/furnishings/user-authored-20261027/linear-track/LICENSE-NOTICE.txt",
-          "bytes": 1563,
-          "sha256": "d1e955d10f9ef3f655d07e300282fbe27e201e12b7a2cf2c9994cbeb9dfc8081"
+          "bytes": 620,
+          "sha256": "7887466b5b3c5c9ab8c3712f01122dc2092bd2cc6a86fab63a80a37c0aeb99e2"
         }
       },
       "provenance": {
