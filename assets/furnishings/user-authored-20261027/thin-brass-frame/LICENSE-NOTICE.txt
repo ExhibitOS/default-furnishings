@@ -1,0 +1,10 @@
+Thin Brass Frame
+Creator and rights holder: ExhibitOS
+Original visual.glb SHA-256: 4b14e45ccf14ed38eea90c50553733a0b97b1671b9ec377d900e5a947545f8b4
+
+License: CC0 1.0 Universal (CC0-1.0)
+https://creativecommons.org/publicdomain/zero/1.0/
+
+ExhibitOS applies CC0 to the rights it holds or can exercise in this self-created asset. The original model contains authored geometry and constant materials; its historical source notice records no external model, image, pattern or font.
+
+SOURCE-NOTICE.txt preserves the original delivery notice unchanged. It recorded that no public license had been selected at that earlier time. The subsequent creator direction dated 2026-11-06 applies CC0 to prior ExhibitOS-generated models. This distribution preserves the original model bytes.
