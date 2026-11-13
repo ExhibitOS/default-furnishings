@@ -1,6 +1,6 @@
 {
   "schema": "org.exhibitos.default-furnishings/v1",
-  "bundleVersion": "1.12.0",
+  "bundleVersion": "1.13.0",
   "assets": [
     {
       "catalogId": "backless-oak-bench",
@@ -473,7 +473,7 @@
         "id": "af88109b-27e2-4d10-a08c-3ddc0224451a",
         "version": 1,
         "kind": "artwork-frame",
-        "name": "얇은 황동 액자",
+        "name": "\uc587\uc740 \ud669\ub3d9 \uc561\uc790",
         "model": {
           "mime": "model/gltf-binary",
           "bytes": 7892,
@@ -527,6 +527,30 @@
           "toolId": "exhibitos-three-0.186.1-thumbnail-v1",
           "renderRequestId": "0d02fc63-52ed-43a1-846e-a87b11edef8d"
         }
+      }
+    },
+    {
+      "catalogId": "linear-track",
+      "catalogVersion": 1,
+      "name": "Linear Track",
+      "hostKind": "ceiling-rail",
+      "model": {
+        "path": "assets/furnishings/user-authored-20261027/linear-track/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 187688,
+        "sha256": "1ba64842de525166018e941074852a3e041d07adf605674c7d7fadb02693a09e"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/user-authored-20261027/linear-track/LICENSE-NOTICE.txt",
+          "bytes": 1563,
+          "sha256": "d1e955d10f9ef3f655d07e300282fbe27e201e12b7a2cf2c9994cbeb9dfc8081"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "1ba64842de525166018e941074852a3e041d07adf605674c7d7fadb02693a09e",
+        "recipe": "original-v1"
       }
     }
   ]
