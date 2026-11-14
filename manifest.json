@@ -1,6 +1,6 @@
 {
   "schema": "org.exhibitos.default-furnishings/v1",
-  "bundleVersion": "1.13.0",
+  "bundleVersion": "1.14.0",
   "assets": [
     {
       "catalogId": "backless-oak-bench",
@@ -550,6 +550,30 @@
       },
       "provenance": {
         "sourceSha256": "1ba64842de525166018e941074852a3e041d07adf605674c7d7fadb02693a09e",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "hayes-clear-protective-hood",
+      "catalogVersion": 1,
+      "name": "Hayes Clear Protective Hood",
+      "hostKind": "display-case",
+      "model": {
+        "path": "assets/furnishings/exhibitos-authored-20261114/hayes-clear-protective-hood/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 8156,
+        "sha256": "1ddb8e0c5101cfaf035adde25cc0ec5bb88d01dba720441f143cca8d9c455819"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/exhibitos-authored-20261114/hayes-clear-protective-hood/LICENSE-NOTICE.txt",
+          "bytes": 656,
+          "sha256": "8d8c9b82689e03d273325eef0763dd46019c69c23305d869154302e1af1e0e8d"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "1ddb8e0c5101cfaf035adde25cc0ec5bb88d01dba720441f143cca8d9c455819",
         "recipe": "original-v1"
       }
     }
