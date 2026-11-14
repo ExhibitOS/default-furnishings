@@ -1,0 +1,6 @@
+Sculpture Bench Refined v6
+
+Creator and rights holder: ExhibitOS. The user directs CC0 1.0 for ExhibitOS-created assets to the extent rights are held or exercisable.
+License: Creative Commons CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Covers this new v6 bench geometry, materials and included ExhibitOS-authored oak texture, derived from the retained ExhibitOS v5 source. Artwork, third-party materials and review previews are not included. This notice is not product registration or release approval.
