@@ -1,6 +1,6 @@
 {
   "schema": "org.exhibitos.default-furnishings/v1",
-  "bundleVersion": "1.14.0",
+  "bundleVersion": "1.15.0",
   "assets": [
     {
       "catalogId": "backless-oak-bench",
@@ -574,6 +574,30 @@
       },
       "provenance": {
         "sourceSha256": "1ddb8e0c5101cfaf035adde25cc0ec5bb88d01dba720441f143cca8d9c455819",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "sculpture-bench-refined-v6",
+      "catalogVersion": 1,
+      "name": "Sculpture Bench Refined v6",
+      "hostKind": "bench",
+      "model": {
+        "path": "assets/furnishings/exhibitos-authored-20261114/sculpture-bench-refined-v6/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 345892,
+        "sha256": "28e980f60dfa50c0dd68b6bcf20f34df29957bf50a824262fe91db9d24279f60"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/exhibitos-authored-20261114/sculpture-bench-refined-v6/LICENSE-NOTICE.txt",
+          "bytes": 532,
+          "sha256": "45935b8221ed5f18c96239cc88cae36d804ef802e6d16fdd7001ac87325528f7"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "28e980f60dfa50c0dd68b6bcf20f34df29957bf50a824262fe91db9d24279f60",
         "recipe": "original-v1"
       }
     }
