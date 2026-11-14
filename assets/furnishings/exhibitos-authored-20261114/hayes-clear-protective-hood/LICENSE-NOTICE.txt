@@ -1,0 +1,6 @@
+Hayes clear protective hood, candidate r2
+
+Creator and rights holder: ExhibitOS. The user directs CC0 1.0 for ExhibitOS-created assets to the extent rights are held or exercisable.
+License: Creative Commons CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+This notice covers the newly authored hood geometry and material in visual.glb and its authored master. It does not grant rights to the Smithsonian Hayes artwork, the linked display reference, the preview image, or other third-party content. Preserve separate artwork attribution and rights. This candidate has not been admitted to the product or approved for public release.
