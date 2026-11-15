@@ -1,6 +1,6 @@
 {
   "schema": "org.exhibitos.default-furnishings/v1",
-  "bundleVersion": "1.15.0",
+  "bundleVersion": "1.16.0",
   "assets": [
     {
       "catalogId": "backless-oak-bench",
@@ -598,6 +598,30 @@
       },
       "provenance": {
         "sourceSha256": "28e980f60dfa50c0dd68b6bcf20f34df29957bf50a824262fe91db9d24279f60",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "dark-track-network",
+      "catalogVersion": 1,
+      "name": "Dark Continuous Track Network",
+      "hostKind": "ceiling-rail",
+      "model": {
+        "path": "assets/furnishings/exhibitos-authored-20261115/dark-track-network/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 377576,
+        "sha256": "5cc5d772acd4087c5d7d26b5f24e2fe38626b1315e377210410954abf7d4ff44"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/exhibitos-authored-20261115/dark-track-network/LICENSE-NOTICE.txt",
+          "bytes": 675,
+          "sha256": "457bcee247bc32866c58c18631327c1df6b8fa51352dcb1f3ff94aca764c9889"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "5cc5d772acd4087c5d7d26b5f24e2fe38626b1315e377210410954abf7d4ff44",
         "recipe": "original-v1"
       }
     }
