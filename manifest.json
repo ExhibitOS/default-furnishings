@@ -1,6 +1,6 @@
 {
   "schema": "org.exhibitos.default-furnishings/v1",
-  "bundleVersion": "1.16.0",
+  "bundleVersion": "1.17.0",
   "assets": [
     {
       "catalogId": "backless-oak-bench",
@@ -473,7 +473,7 @@
         "id": "af88109b-27e2-4d10-a08c-3ddc0224451a",
         "version": 1,
         "kind": "artwork-frame",
-        "name": "얇은 황동 액자",
+        "name": "\uc587\uc740 \ud669\ub3d9 \uc561\uc790",
         "model": {
           "mime": "model/gltf-binary",
           "bytes": 7892,
@@ -622,6 +622,54 @@
       },
       "provenance": {
         "sourceSha256": "5cc5d772acd4087c5d7d26b5f24e2fe38626b1315e377210410954abf7d4ff44",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "painting-rectangular-dark-track",
+      "catalogVersion": 1,
+      "name": "Painting Room Closed Rectangular Dark Track",
+      "hostKind": "ceiling-rail",
+      "model": {
+        "path": "assets/furnishings/exhibitos-authored-20261115/painting-rectangular-dark-track/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 268820,
+        "sha256": "aca126489bf21adcc637e9a3c3bb805bb57f93111c3333a8fdefab9d371d1c42"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/exhibitos-authored-20261115/painting-rectangular-dark-track/LICENSE-NOTICE.txt",
+          "bytes": 678,
+          "sha256": "45b428e505df8eef13d0f6db84004fe0f87cc00571d69bc6a55e2089ea7b4bf0"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "aca126489bf21adcc637e9a3c3bb805bb57f93111c3333a8fdefab9d371d1c42",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "museum-track-spot-fixed-64p1",
+      "catalogVersion": 1,
+      "name": "Museum Track Spot Fixed 64.1 Degrees",
+      "hostKind": "light",
+      "model": {
+        "path": "assets/furnishings/exhibitos-authored-20261115/museum-track-spot-fixed-64p1/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 255228,
+        "sha256": "3cbe71cf0c6ed28cb99f16c34094b43dc1cb5b3f293406b2cec54e9fcbf0783a"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/exhibitos-authored-20261115/museum-track-spot-fixed-64p1/LICENSE-NOTICE.txt",
+          "bytes": 642,
+          "sha256": "f7cd4b4f0746f8b455c721514df69cececb7e90ed3f2bf3649e0a8312e9ef6ec"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "3cbe71cf0c6ed28cb99f16c34094b43dc1cb5b3f293406b2cec54e9fcbf0783a",
         "recipe": "original-v1"
       }
     }
