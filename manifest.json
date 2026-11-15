@@ -1,6 +1,6 @@
 {
   "schema": "org.exhibitos.default-furnishings/v1",
-  "bundleVersion": "1.17.0",
+  "bundleVersion": "1.18.0",
   "assets": [
     {
       "catalogId": "backless-oak-bench",
@@ -473,7 +473,7 @@
         "id": "af88109b-27e2-4d10-a08c-3ddc0224451a",
         "version": 1,
         "kind": "artwork-frame",
-        "name": "\uc587\uc740 \ud669\ub3d9 \uc561\uc790",
+        "name": "얇은 황동 액자",
         "model": {
           "mime": "model/gltf-binary",
           "bytes": 7892,
@@ -670,6 +670,30 @@
       },
       "provenance": {
         "sourceSha256": "3cbe71cf0c6ed28cb99f16c34094b43dc1cb5b3f293406b2cec54e9fcbf0783a",
+        "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "museum-track-spot-articulated",
+      "catalogVersion": 1,
+      "name": "Museum Track Spot with Adjustable Aim",
+      "hostKind": "light",
+      "model": {
+        "path": "assets/furnishings/exhibitos-authored-20261115/museum-track-spot-articulated/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 225328,
+        "sha256": "e6801dd02c4f11a1c48b5cf64d97b775924bab10ea7dd533e2904db3a4d6d3a3"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/exhibitos-authored-20261115/museum-track-spot-articulated/LICENSE-NOTICE.txt",
+          "bytes": 721,
+          "sha256": "4c0ee253cb106600cf11e03a92abe785c0d7d5e91590a02e05377172a944b40d"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "e6801dd02c4f11a1c48b5cf64d97b775924bab10ea7dd533e2904db3a4d6d3a3",
         "recipe": "original-v1"
       }
     }
