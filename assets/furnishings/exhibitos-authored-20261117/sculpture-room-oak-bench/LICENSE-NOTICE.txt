@@ -1,0 +1,6 @@
+Sculpture Room Oak Bench
+
+Creator and rights holder: ExhibitOS. The user directs CC0 1.0 for ExhibitOS-created assets to the extent rights are held or exercisable.
+License: Creative Commons CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+This notice covers the original bench geometry, materials, and the two procedurally generated embedded wood textures. No third-party model, image or font is included. Retained master and provenance are maintained separately. This notice does not grant rights in third-party material, trademarks, patents or personality, and does not license application code. Product registration and release are separate.
