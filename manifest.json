@@ -1,6 +1,6 @@
 {
   "schema": "org.exhibitos.default-furnishings/v1",
-  "bundleVersion": "1.18.0",
+  "bundleVersion": "1.19.0",
   "assets": [
     {
       "catalogId": "backless-oak-bench",
@@ -695,6 +695,37 @@
       "provenance": {
         "sourceSha256": "e6801dd02c4f11a1c48b5cf64d97b775924bab10ea7dd533e2904db3a4d6d3a3",
         "recipe": "original-v1"
+      }
+    },
+    {
+      "catalogId": "sculpture-room-oak-bench",
+      "catalogVersion": 1,
+      "name": "Sculpture Room Oak Bench",
+      "hostKind": "bench",
+      "model": {
+        "path": "assets/furnishings/exhibitos-authored-20261117/sculpture-room-oak-bench/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 482752,
+        "sha256": "f6d9ed8840801843f19f64b19cb8aa1fd03520c70ff7ab07bf4d7972f20c7c39"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/exhibitos-authored-20261117/sculpture-room-oak-bench/LICENSE-NOTICE.txt",
+          "bytes": 669,
+          "sha256": "ddfbbb9f3a7316dacb85bca6e6f917c535d6e22a795e487e6ed632eb1fa5357a"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "97c9486decc3e646adc76d40856084fd869e618bea72db5b423e415ec72f72ff",
+        "recipe": "bench-basecolor-512-v1",
+        "source": {
+          "path": "assets/furnishings/exhibitos-authored-20261117/sculpture-room-oak-bench/source.glb",
+          "bytes": 877872,
+          "sha256": "97c9486decc3e646adc76d40856084fd869e618bea72db5b423e415ec72f72ff"
+        },
+        "runtimeManifestSHA256": "927367b6d36432b9c82eeb1f45b058b00d61a34f3ede8244f16f2a8d007ec132",
+        "registeredReceiptSHA256": "3bd188caeef7847d7def4f43c65731df609f3bfe90326e127e26d8885dcc47f4"
       }
     }
   ]
