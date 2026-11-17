@@ -28,4 +28,4 @@ Version 1.17.0 preserves all twenty-three 1.16.0 entries and files and adds the 
 
 Version 1.18.0 adds the Museum Track Spot with Adjustable Aim and its exact CC0 notice. It uses the `track-spot-aim-v1` product profile to resolve the mount, swivel and head poses. The model is distributed in its rest pose. The bundle retains all 25 existing entries.
 
-Version 1.19.0 preserves all 1.18.0 entries and adds the independently selected ExhibitOS-created Sculpture Room Oak Bench original and its CC0 notice. The retained original geometry and embedded textures are distributed unchanged. This bundle does not establish target-owner registration, discovery, seat or collision fit, scene placement, Viewer quality or release.
+Version 1.19.0 preserves all 1.18.0 entries and adds the independently selected ExhibitOS-created Sculpture Room Oak Bench original and its CC0 notice. The original GLB is retained alongside its product-prepared Compact-compatible display model. This bundle does not establish target-owner registration, discovery, seat or collision fit, scene placement, Viewer quality or release.
