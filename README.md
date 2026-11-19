@@ -31,3 +31,5 @@ Version 1.18.0 adds the Museum Track Spot with Adjustable Aim and its exact CC0 
 Version 1.19.0 preserves all 1.18.0 entries and adds the independently selected ExhibitOS-created Sculpture Room Oak Bench original and its CC0 notice. The original GLB is retained alongside its product-prepared Compact-compatible display model. This bundle does not establish target-owner registration, discovery, seat or collision fit, scene placement, Viewer quality or release.
 
 Version 1.20.0 retains all 27 entries from 1.19.0 and adds the existing Wheat Matte Oak Frame original and its CC0 notice. Its installed descriptor uses the measured fixed straight-ring fit for the exact original GLB. Manager packaging, discovery and direct placement require the matching product consumers.
+
+Version 1.21.0 retains all 28 entries from 1.20.0 and adds the original Closing Straight Rail 6m and Double-width portal with their CC0 notices and exact source-bound fit. Both require the matching installed catalogue and host operations in Manager.

@@ -1,0 +1,8 @@
+Closing Straight Rail 6m - distribution license
+Creator and rights holder: ExhibitOS. Original geometry and material created for ExhibitOS with no third-party assets.
+CC0 1.0 Universal applies to the creator-controlled asset.
+https://creativecommons.org/publicdomain/zero/1.0/
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+This notice covers the original model dcf99d8d5568bd5eba2614028ca3bf545a86251c435af1614b851d873c104ae7.
+It does not assert structural certification or license application code.
