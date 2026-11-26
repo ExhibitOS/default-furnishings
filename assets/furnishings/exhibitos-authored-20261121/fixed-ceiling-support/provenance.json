@@ -1,0 +1,127 @@
+{
+  "sourceId": "exhibitos-fixed-ceiling-support-v1",
+  "title": "Fixed Ceiling Support",
+  "titleKo": "\uace0\uc815\ud615 \ucc9c\uc7a5 \ud604\uc218 \uc9c0\uc9c0\ub300",
+  "creator": "ExhibitOS",
+  "rightsHolder": "ExhibitOS",
+  "license": "CC0-1.0",
+  "thirdPartyInputs": [],
+  "authoring": "One continuous metric mesh with original matte charcoal material in a separate Blender master.",
+  "files": {
+    "master.blend": {
+      "bytes": 95781,
+      "sha256": "e4da5c6150bb75ec37afd6d6cc7827adfd53cb784b7636b9520faebb8736ca37"
+    },
+    "visual.glb": {
+      "bytes": 28472,
+      "sha256": "06de01d214a67e68d021b164e64a1f7f621faf78bcf2d859151b56b8d6a4adf3"
+    },
+    "LICENSE-NOTICE.txt": {
+      "bytes": 284,
+      "sha256": "163aace0e063d60761dea91581bdb082651b330b694050af0e44a60fc0493ee2"
+    }
+  },
+  "geometry": {
+    "axes": "glTF +Y up, X adapter long axis, Z short axis. Origin on top contact.",
+    "triangles": 640,
+    "boundsM": [
+      [
+        -0.054999999701976776,
+        -0.5878568291664124,
+        -0.041999999433755875
+      ],
+      [
+        0.054999999701976776,
+        0.0,
+        0.041999999433755875
+      ]
+    ],
+    "topContact": {
+      "centreM": [
+        0,
+        0,
+        0
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "boundsM": [
+        [
+          -0.041999999433755875,
+          0.0,
+          -0.041999999433755875
+        ],
+        [
+          0.041999999433755875,
+          0.0,
+          0.041999999433755875
+        ]
+      ],
+      "triangleCount": 32,
+      "areaM2": 0.005506229328489445
+    },
+    "lowerContact": {
+      "centreM": [
+        0,
+        -0.5878568291664124,
+        0
+      ],
+      "normal": [
+        0,
+        -1,
+        0
+      ],
+      "boundsM": [
+        [
+          -0.054999999701976776,
+          -0.5878568291664124,
+          -0.02500000037252903
+        ],
+        [
+          0.054999999701976776,
+          -0.5878568291664124,
+          0.02500000037252903
+        ]
+      ],
+      "triangleCount": 32,
+      "areaM2": 0.005500000052154064
+    },
+    "nominalHeadFootprintM": {
+      "x": [
+        -0.0475,
+        0.0475
+      ],
+      "z": [
+        -0.019,
+        0.019
+      ]
+    },
+    "nominalEdgeMarginM": {
+      "x": 0.0075,
+      "z": 0.006
+    },
+    "intendedDropM": 0.5878568586894031,
+    "verification": "Actual decoded indexed triangles, closed welded mesh, filled planar faces with outward normals."
+  },
+  "context": {
+    "issue": "https://github.com/ExhibitOS/operations/issues/161",
+    "ceilingSurfaceIdPrefix": "5bc91eae",
+    "roomLocalTopM": [
+      0,
+      4,
+      1.4428774997877816
+    ],
+    "roomLocalReceiverM": [
+      0,
+      3.412143141310597,
+      1.4428774997877816
+    ],
+    "yawRad": 0,
+    "attachmentGapM": 0,
+    "headSHA256": "e6801dd02c4f11a1c48b5cf64d97b775924bab10ea7dd533e2904db3a4d6d3a3",
+    "clearance": "Support stays on or above optical head mating plane. Cross-check exact assembly with the separate head in shared consumer qualification.",
+    "boundary": "Source-only private prototype; product admission, installation and Viewer acceptance remain separate."
+  }
+}
