@@ -1,0 +1,1 @@
+Fixed Ceiling Support v1. Original geometry and material by ExhibitOS. ExhibitOS dedicates its rights in this support under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/ . No third-party components. The independently licensed articulated head is not included.

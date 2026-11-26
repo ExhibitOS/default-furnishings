@@ -1,6 +1,6 @@
 {
   "schema": "org.exhibitos.default-furnishings/v1",
-  "bundleVersion": "1.22.0",
+  "bundleVersion": "1.23.0",
   "assets": [
     {
       "catalogId": "backless-oak-bench",
@@ -1054,6 +1054,72 @@
         "id": "55eb21db-839d-587b-8960-edabfe61b572",
         "version": 1,
         "provenance": "ExhibitOS default furnishings, double-width-portal v1. Unchanged ExhibitOS original."
+      }
+    },
+    {
+      "catalogId": "fixed-ceiling-support",
+      "catalogVersion": 1,
+      "name": "Fixed Ceiling Support",
+      "hostKind": "ceiling-rail",
+      "model": {
+        "path": "assets/furnishings/exhibitos-authored-20261121/fixed-ceiling-support/model.glb",
+        "mime": "model/gltf-binary",
+        "bytes": 28472,
+        "sha256": "06de01d214a67e68d021b164e64a1f7f621faf78bcf2d859151b56b8d6a4adf3"
+      },
+      "rights": {
+        "licenseId": "CC0-1.0",
+        "notice": {
+          "path": "assets/furnishings/exhibitos-authored-20261121/fixed-ceiling-support/LICENSE-NOTICE.txt",
+          "bytes": 284,
+          "sha256": "163aace0e063d60761dea91581bdb082651b330b694050af0e44a60fc0493ee2"
+        }
+      },
+      "provenance": {
+        "sourceSha256": "06de01d214a67e68d021b164e64a1f7f621faf78bcf2d859151b56b8d6a4adf3",
+        "recipe": "original-v1"
+      },
+      "workspaceFurnishing": {
+        "kind": "ceiling-rail",
+        "name": "Fixed Ceiling Support",
+        "model": {
+          "mime": "model/gltf-binary",
+          "bytes": 28472,
+          "sha256": "06de01d214a67e68d021b164e64a1f7f621faf78bcf2d859151b56b8d6a4adf3"
+        },
+        "rights": {
+          "holder": "ExhibitOS",
+          "licenseId": "CC0-1.0",
+          "ownership": "owner",
+          "creditLine": "ExhibitOS",
+          "permissions": {
+            "export": true,
+            "display": true,
+            "download": true,
+            "commercial": true
+          }
+        },
+        "fit": {
+          "version": 1,
+          "geometry": {
+            "max": [
+              0.055,
+              0,
+              0.042
+            ],
+            "min": [
+              -0.055,
+              -0.587857,
+              -0.042
+            ],
+            "profile": "passive-ceiling-rail-v1"
+          },
+          "sourceBytes": 28472,
+          "sourceSha256": "06de01d214a67e68d021b164e64a1f7f621faf78bcf2d859151b56b8d6a4adf3"
+        },
+        "id": "63d083ba-70c7-56e5-a0f2-f8038ef84e63",
+        "version": 1,
+        "provenance": "ExhibitOS default furnishings, fixed-ceiling-support v1. Unchanged ExhibitOS original."
       }
     }
   ]
